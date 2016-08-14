@@ -84,6 +84,17 @@ Fintech resources for HackNTU
 * Scrapy: http://scrapy.org/
 * 大數學堂: http://www.largitdata.com/
 
+## Map API
+* Google Maps Geocoding API: https://developers.google.com/maps/documentation/geocoding/intro?hl=zh-tw
+* Bing Map: https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx
+
+## AR
+* Vuforia: https://developer.vuforia.com/
+
+## Pokemon Go
+* https://github.com/tejado/pgoapi
+* 如何使用API 抓取附近神奇寶貝的位置資訊: http://www.largitdata.com/course/76/
+
 ## Blockchain
 * blockchain.info: https://blockchain.info/
 * ethereum: https://www.ethereum.org/
