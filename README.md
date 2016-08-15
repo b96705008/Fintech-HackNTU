@@ -65,7 +65,7 @@ Fintech resources for HackNTU
 * Google web speech: https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API
 * Amazon Machine Learning: https://aws.amazon.com/tw/machine-learning/
 
-## Machine Learning, NLP libs
+## Machine Learning, NLP, AI
 * tensorflow: https://www.tensorflow.org/
 * keras: https://keras.io/
 * Jieba中文斷詞: https://github.com/fxsjy/jieba
