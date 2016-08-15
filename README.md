@@ -98,8 +98,10 @@ Fintech resources for HackNTU
 ## Blockchain
 * blockchain.info: https://blockchain.info/
 * ethereum: https://www.ethereum.org/
+* DTCO 產業區塊鏈: https://dtco.co/
 * 台大Gcoin: http://g-coin.org/
 * Hyperledger: https://www.hyperledger.org/
+* ripple: https://ripple.com/
 
 # Reference
 #### 2016金融的未來 FinTech完全解析 - 數位時代 2015/12 NO.259
