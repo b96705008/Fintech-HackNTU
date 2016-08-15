@@ -98,6 +98,7 @@ Fintech resources for HackNTU
 ## Blockchain
 * blockchain.info: https://blockchain.info/
 * ethereum: https://www.ethereum.org/
+* storj - Blockchain-based storage: https://storj.io/
 * DTCO 產業區塊鏈: https://dtco.co/
 * 台大Gcoin: http://g-coin.org/
 * Hyperledger: https://www.hyperledger.org/
