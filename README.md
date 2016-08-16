@@ -71,6 +71,7 @@ Fintech resources for HackNTU
 * Jieba中文斷詞: https://github.com/fxsjy/jieba
 * Stanford Core NLP: http://stanfordnlp.github.io/CoreNLP
 * python scikit-learn: http://scikit-learn.org/stable/
+* xgboost: https://xgboost.readthedocs.io/en/latest/
 * H2o.ai: http://www.h2o.ai/
 * Spark model and API framework: https://prediction.io/
 
