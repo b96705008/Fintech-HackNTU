@@ -21,6 +21,9 @@ Fintech resources for HackNTU
 * Gold: http://www.investing.com/commodities/gold-historical-data
 * ps: You should copy data own your own
 
+## Word bank open data
+* http://data.worldbank.org
+
 ## Official financial institutions
 * 台灣證券交易所: http://www.twse.com.tw/ch/trading/fund/BFI82U/BFI82U.php
 * 證券櫃檯買賣中心: http://www.tpex.org.tw/web/fund/corporateInfo/fund.php?l=zh-tw
@@ -129,5 +132,4 @@ Fintech resources for HackNTU
 
 #### 金融反欺诈中，社交网络算法有用吗？ - Ting Wang (宜人贷), Jike Chong (YiRenDai/CreditEase)
 * http://strata.oreilly.com.cn/hadoop-big-data-cn/public/schedule/detail/51639
-
 
