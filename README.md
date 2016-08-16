@@ -106,6 +106,7 @@ Fintech resources for HackNTU
 
 # Reference
 #### 2016金融的未來 FinTech完全解析 - 數位時代 2015/12 NO.259
+* http://www.bnext.com.tw/magazine/view/id/126568
 
 #### 銀行將死？矽谷和華爾街上演金融版「權力遊戲」
 * http://www.bnext.com.tw/ext_rss/view/id/1807758
