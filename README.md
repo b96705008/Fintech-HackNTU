@@ -133,9 +133,9 @@ Fintech resources for HackNTU
 #### 金融反欺诈中，社交网络算法有用吗？ - Ting Wang (宜人贷), Jike Chong (YiRenDai/CreditEase)
 * http://strata.oreilly.com.cn/hadoop-big-data-cn/public/schedule/detail/51639
 
-#### Advanced Analytics with Spark
+#### Advanced Analytics with Spark - Patterns for Learning from Data at Scale
 * http://shop.oreilly.com/product/0636920035091.do
 
-#### Decentralized Applications
+#### Decentralized Applications - Harnessing Bitcoin's Blockchain Technology
 * http://shop.oreilly.com/product/0636920039334.do
 
