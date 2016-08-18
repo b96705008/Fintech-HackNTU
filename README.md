@@ -77,7 +77,10 @@ Fintech resources for HackNTU
 ### Vanguard mutual fund KYC
 * https://personal.vanguard.com/us/funds/tools/recommendation 
 
-# Library and Framework
+# API, Library and Framework
+## Common
+* mashape: https://market.mashape.com/
+
 ## Bot
 * Facebook messenger bot: https://messengerplatform.fb.com/
 * Microsoft Bot Framework: https://dev.botframework.com/
@@ -119,6 +122,11 @@ Fintech resources for HackNTU
 ## Pokemon Go
 * https://github.com/tejado/pgoapi
 * 如何使用API 抓取附近神奇寶貝的位置資訊: http://www.largitdata.com/course/76/
+
+## Sentiment
+* indico: https://indico.io/
+* repustate: https://www.repustate.com/
+* others: http://blog.mashape.com/list-of-20-sentiment-analysis-apis/
 
 ## Blockchain
 * blockchain.info: https://blockchain.info/
