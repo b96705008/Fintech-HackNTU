@@ -80,9 +80,6 @@ Fintech resources for HackNTU
 * https://personal.vanguard.com/us/funds/tools/recommendation 
 
 # API, Library and Framework
-## Common
-* mashape: https://market.mashape.com/
-
 ## Bot
 * Facebook messenger bot: https://messengerplatform.fb.com/
 * Microsoft Bot Framework: https://dev.botframework.com/
@@ -143,6 +140,9 @@ Fintech resources for HackNTU
 * Apache spark: http://spark.apache.org/
 * elasticsearch: https://www.elastic.co/
 * mongodb: https://www.mongodb.com/
+
+## Other
+* mashape: https://market.mashape.com/
 
 # Reference
 #### 2016金融的未來 FinTech完全解析 - 數位時代 2015/12 NO.259
