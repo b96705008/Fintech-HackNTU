@@ -3,7 +3,7 @@ Fintech resources for HackNTU
 
 #### This repo collect different resources for developing fintech projects
 
-# Open data and online information
+# Open data
 ## Yahoo Finance (https://finance.yahoo.com)
 * API tutorial: https://blog.ccjeng.com/2016/03/Yahoo-Finance-API.html
 * reference: https://github.com/sryza/aas/tree/master/ch09-risk/data
@@ -29,6 +29,7 @@ Fintech resources for HackNTU
 * 證券櫃檯買賣中心: http://www.tpex.org.tw/web/fund/corporateInfo/fund.php?l=zh-tw
 * STICA 基金評比: http://www.sitca.org.tw/ROC/Industry/IN2400.aspx?PGMID=IN0202
 
+# Website for financial resources
 ## PTT finance related
 * Stock 股票
 * Option 期貨與選擇權
@@ -40,6 +41,26 @@ Fintech resources for HackNTU
 * creditcard 信用卡
 * slon 貸款、現金卡
 * tax 稅板
+
+## FB page
+* 綠角財務筆記: https://www.facebook.com/GreenHornFans/
+* 基金教母-蕭碧燕: https://zh-tw.facebook.com/kimiconsultant/
+* 法意PHIGROUP: https://www.facebook.com/phigroupinvestment/
+* 權證小哥: https://zh-tw.facebook.com/warrantlb/
+* 輕理財專區: https://www.facebook.com/btoday.money/
+* 林奇芬治富俱樂部: https://www.facebook.com/mrsmoney888
+* 夏韻芬的理財生活通: https://www.facebook.com/20070101money?fref=ts
+* 就是愛玩股 Wantgoo: https://www.facebook.com/wantgoo.fans
+
+## Mobile01
+* 投資與理財: http://www.mobile01.com/topiclist.php?f=291
+
+## MoneyDJ
+* 台灣境外基金: http://www.moneydj.com/forum/showforum-44.aspx
+* 台灣國內基金: http://www.moneydj.com/forum/showforum-46.aspx
+* 基金投資: http://www.moneydj.com/forum/showforum-109.aspx
+* 資產配置: http://www.moneydj.com/forum/showforum-101.aspx
+* 綜合理財: http://www.moneydj.com/forum/showforum-108.aspx
 
 # Application
 ### 國泰相關
