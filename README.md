@@ -137,6 +137,11 @@ Fintech resources for HackNTU
 * Hyperledger: https://www.hyperledger.org/
 * ripple: https://ripple.com/
 
+## Data process engine & database
+* Apache spark: http://spark.apache.org/
+* elasticsearch: https://www.elastic.co/
+* mongodb: https://www.mongodb.com/
+
 # Reference
 #### 2016金融的未來 FinTech完全解析 - 數位時代 2015/12 NO.259
 * http://www.bnext.com.tw/magazine/view/id/126568
