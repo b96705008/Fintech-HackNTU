@@ -37,16 +37,16 @@ Fintech resources for HackNTU
 * Bank_Service 銀行服務
 * Accounting 會計
 * Insurance 保險
-* Finance 金融
+* Finance 金融業
 * creditcard 信用卡
-* slon 貸款、現金卡
+* Loan 貸款
 * tax 稅板
+* ForeignEX 匯率
 
 ## FB page
 * 綠角財務筆記: https://www.facebook.com/GreenHornFans/
 * 基金教母-蕭碧燕: https://zh-tw.facebook.com/kimiconsultant/
 * 法意PHIGROUP: https://www.facebook.com/phigroupinvestment/
-* 權證小哥: https://zh-tw.facebook.com/warrantlb/
 * 輕理財專區: https://www.facebook.com/btoday.money/
 * 林奇芬治富俱樂部: https://www.facebook.com/mrsmoney888
 * 夏韻芬的理財生活通: https://www.facebook.com/20070101money?fref=ts
@@ -159,4 +159,3 @@ Fintech resources for HackNTU
 
 #### Decentralized Applications - Harnessing Bitcoin's Blockchain Technology
 * http://shop.oreilly.com/product/0636920039334.do
-
