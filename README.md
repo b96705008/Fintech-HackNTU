@@ -62,7 +62,7 @@ Fintech resources for HackNTU
 * 資產配置: http://www.moneydj.com/forum/showforum-101.aspx
 * 綜合理財: http://www.moneydj.com/forum/showforum-108.aspx
 
-# Application
+# Application in ppt
 ### 國泰相關
 * 智能小Q: https://www.cathaybk.com.tw/Cathaybk/e_service/event/2015webchat/index.asp
 * 金融商品檢視: https://www.cathaybk.com.tw/cathaybk/vip/myvip_2_1_1.asp
