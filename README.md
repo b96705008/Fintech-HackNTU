@@ -3,7 +3,7 @@ Fintech resources for HackNTU
 
 #### This repo collect different resources for developing fintech projects
 #### Present PDF
-* https://docs.google.com/uc?authuser=0&id=0B2JMC3qMZ9RsY2VSZVRWOVRLckU&export=download
+* https://docs.google.com/uc?authuser=0&id=0B2JMC3qMZ9RsWnNXMnVPZDM5dmc&export=download
 
 # Open data
 ## Yahoo Finance (https://finance.yahoo.com)
